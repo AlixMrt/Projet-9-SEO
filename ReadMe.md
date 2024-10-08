@@ -7,4 +7,4 @@ Ma première tâche a été d’identifier les problèmes de chargement et de SE
 
 # Visiter le site
 
-https://alixmrt.github.io/Projet-5-Print-it/
+alixmrt.github.io/Projet-9-SEO
