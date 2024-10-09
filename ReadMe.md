@@ -7,4 +7,4 @@ Ma première tâche a été d’identifier les problèmes de chargement et de SE
 
 # Visiter le site
 
-alixmrt.github.io/Projet-9-SEO/
+https://alixmrt.github.io/Projet-9-SEO
